@@ -139,15 +139,14 @@ awards:
     awarder: Coursera
     icon: coursera
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
+      The Foreign Language and Area Studies Fellowship is a competitive grant funded by the U.S. Department of Education. The grant provides a total of \$8,500 to assist students in acquiring foreign language and either area or international studies competencies. I received this grant for the second consecutive year to take an advanced Italian language course through the Umbra Institute. Through this course I reached a CEFR-B2 (Upper-intermediate) fluency level.
   - title: Foreign Language & Area Studies (FLAS) - Norwegian
     url: https://www.coursera.org/learn/neural-networks-deep-learning
     date: '2023-11-25'
     awarder: Coursera
     icon: coursera
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-
+    
 ---
 
 ## About Me
