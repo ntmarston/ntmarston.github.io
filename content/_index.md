@@ -78,9 +78,9 @@ sections:
       title: Languages
       subtitle: ''
       text: |
-        - 🇺🇸 **English** – Native
-        - 🇳🇴 **Norsk** – CEFR B2
-        - 🇮🇹 **Italiano** – CEFR B2  
+        - :flag_united_kingdom: **English** – Native
+        - :flag_norway: **Norsk** – CEFR B2
+        - "flag_italy: **Italiano** – CEFR B2  
         
 
 ---
