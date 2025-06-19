@@ -104,7 +104,11 @@ sections:
         padding: [0, 0, 0, 0]
   - block: markdown
     content:
-      title: My title
-      subtitle: My subtitle
-      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
+      title: 🌍 Languages I Speak
+      subtitle: Native and Proficient Speaker
+      text: |
+        - 🇺🇸 **English** – Native  
+        - 🇮🇹 **Italiano** – CEFR B2  
+        - 🇳🇴 **Norsk** – CEFR B2
+
 ---
