@@ -63,24 +63,7 @@ sections:
         exclude_featured: false
     design:
       view: citation
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - event
-    design:
-      view: article-grid
-      columns: 1
-  - block: markdown
-    content:
-      title: Languages
-      subtitle: ''
-      text: |
-        - :flag_united_kingdom: **English** – Native
-        - :flag_norway: **Norsk** – CEFR B2
-        - "flag_italy: **Italiano** – CEFR B2  
+
         
 
 ---
