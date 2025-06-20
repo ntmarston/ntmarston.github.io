@@ -140,7 +140,7 @@ awards:
 
 I'm a post-baccalaureate Astronomy & Physics researcher at the University of Wisconsin-Madison. I'm interested in 
 exoplanet formation, detection, and characterization, the application of computational methods to study a variety of astrophysical phenomena, and stellar astronomy.
-My work includes variable star analysis using Kepler mission data for the open cluster NGC 6819(href?), using computational methods to 
+My work includes variable star analysis using Kepler mission data for the open cluster NGC 6819, using computational methods to 
 study of the unusually low density "super-puff" planets, and developing data processing tools and pipelines for these projects. 
 I graduated in 2025 with my B.S. in Physics, Astronomy-Physics, and Scandinavian Studies, with Certificates in Italian and European Studies. 
 
