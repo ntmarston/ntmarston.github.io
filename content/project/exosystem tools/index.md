@@ -1,11 +1,11 @@
 ---
-title: Pandas
-date: 2023-10-26
-external_link: https://github.com/pandas-dev/pandas
+title: Exosystem tools
+date: 2025-06-20
+external_link: https://github.com/ntmarston/exosystem
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - Python
+  - Exoplanets
+  - Astronomy
 ---
 
 Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.

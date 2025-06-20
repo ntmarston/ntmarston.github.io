@@ -37,8 +37,8 @@ sections:
       title: Featured Work
       filters:
         folders:
-          - publication
-        featured_only: True
+          - project
+        featured_only: False
     design:
       view: article-grid
       columns: 1
