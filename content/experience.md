@@ -29,13 +29,6 @@ sections:
     content:
       title: Awards
       username: admin
-  - block: 'github.ntmarston.exp-languages'
-    content:
-        title: 'Languages'
-        subtitle: Spoken and Written
-        text: |
-            - 🇺🇸 **English** – Native
-            - 🇮🇹 **Italiano** – CEFR B2
-            - 🇳🇴 **Norsk** – CEFR B2
+
   
 ---
