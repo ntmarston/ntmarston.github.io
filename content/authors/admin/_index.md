@@ -24,10 +24,7 @@ role: Post-Bac
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: | 
-        Post-Bac Researcher
-        University of Wisconsin-Madison
-        EN\NO\IT
+  - name: University of Wisconsin-Madison
     url: https://wisc.edu/
 
 
