@@ -11,7 +11,7 @@ last_name: Marston
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
@@ -45,7 +45,8 @@ profiles:
 
 interests:
   - Exoplanets
-  - Black Hole & Compact Binary Physics
+  - Habitable Worlds
+  - Black Hole Physics
   - Computational Astrophysics
 
 education:
@@ -134,16 +135,16 @@ languages:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: Foreign Language & Area Studies (FLAS) - Italian
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
+    url: https://iris.ed.gov/programs/flas
     date: '2024-05-01'
-    awarder: Department of Education
+    awarder: U.S. Department of Education
     icon: 
     summary: |
       The Foreign Language and Area Studies Fellowship is a competitive grant funded by the U.S. Department of Education. The grant provides a total of \$8,500 to assist students in acquiring foreign language and either area or international studies competencies. I received this grant for the second consecutive year to take an advanced Italian language course through the Umbra Institute. Through this course I reached a CEFR-B2 (Upper-intermediate) fluency level.
   - title: Foreign Language & Area Studies (FLAS) - Norwegian
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
+    url: https://iris.ed.gov/programs/flas
     date: '2023-05-01'
-    awarder: Department of Education
+    awarder: U.S. Department of Education
     icon: 
     summary: |
       The Foreign Language and Area Studies Fellowship is a competitive grant awarded to undergraduate and graduate students funded by the U.S. Department of Education. The grant provides a total of \$8,500 to assist students in acquiring foreign language and either area or international studies competencies. I received this grant to take an advanced Norwegian language course at UiO, through which I reached CEFR-B2/C1 (Upper Intermediate/Advanced) fluency.
@@ -155,4 +156,4 @@ I'm a post-baccalaureate Astronomy & Physics researcher at the University of Wis
 exoplanet formation, detection, and characterization, and the application of computational methods to study a variety of astrophysical phenomena.
 I also \[6819 project todo\]
 
-Outside of Astronomy/Physics, I enjoy playing Ultimate Frisbee, learning and practicing languages, and "backpacking" through various countries.
+Outside of my research, I enjoy playing Ultimate Frisbee, learning new languages, and learning through travel.
