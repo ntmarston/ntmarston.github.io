@@ -104,22 +104,7 @@ skills:
         description: ''
         percent: 40
         icon: circle-stack
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Ultimate Frisbee
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Travel/Backpacking
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Traditional Irish Music
-        description: ''
-        percent: 80
-        icon: camera
+
 
 languages:
   - name: English
