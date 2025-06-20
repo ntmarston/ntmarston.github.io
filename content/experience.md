@@ -10,6 +10,7 @@ design:
 
 # Page sections
 sections:
+  - block: 
   - block: resume-experience
     content:
       username: admin
@@ -28,10 +29,13 @@ sections:
     content:
       title: Awards
       username: admin
-  - block: resume-languages
+  - block: 'github.ntmarston.exp-languages'
     content:
-      title: Languages
-      username: admin
-    design:
-      show_skill_percentage: false    
+        title: 'Languages'
+        subtitle: Spoken and Written
+        text: |
+            - 🇺🇸 **English** – Native
+            - 🇮🇹 **Italiano** – CEFR B2
+            - 🇳🇴 **Norsk** – CEFR B2
+  
 ---
