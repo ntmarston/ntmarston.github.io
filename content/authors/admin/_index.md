@@ -26,6 +26,7 @@ role: Researcher --- Post-Bac
 organizations:
   - name: University of Wisconsin-Madison
     url: https://wisc.edu/
+    languages: EN\NO\IT
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
