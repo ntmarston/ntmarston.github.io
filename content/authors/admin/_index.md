@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Researcher --- Post-Bac
+role: Post-Bac Researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -83,10 +83,11 @@ work:
     date_start: 2023-09-01
     date_end:
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      
+      - Analyzing Kepler mission data in combination with Gaia DR3 data to characterize periodicity and other properties of stars in the open cluster NGC 6819
+      - Extensive work with periodograms, autocorrelation, and other light curve analysis techniques
+      - Using C++ Code to model allowable properties of low density exoplanets
+      - Development of workflow tools and data processing pipelines
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
