@@ -24,7 +24,7 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: landingpage-banner.svg
+          filename: large_landing_banner.svg
           filters:
             brightness: 1.0
           size: cover
