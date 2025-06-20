@@ -140,6 +140,8 @@ awards:
 
 I'm a post-baccalaureate Astronomy & Physics researcher at the University of Wisconsin-Madison. I'm interested in 
 exoplanet formation, detection, and characterization, and the application of computational methods to study a variety of astrophysical phenomena.
-I also \[6819 project todo\]
+My work includes working with Kepler data to characterize and catalog variable stars, and using computational tools to 
+investigate the anomalously low density planets known as "Super-Puffs". I graduated in 2025 with my B.S. In Physics, 
+Astronomy-Physics, and Scandinavian Studies, and with Italian and European Studies certificates.
 
 Outside of my research, I enjoy playing Ultimate Frisbee, learning new languages, and learning through travel.
