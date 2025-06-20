@@ -145,4 +145,4 @@ My work includes variable star analysis using Kepler mission data for the open c
 study of the unusually low density "super-puff" planets, and developing data processing tools and pipelines for these projects. 
 I graduated in 2025 with my B.S. in Physics, Astronomy-Physics, and Scandinavian Studies, with Certificates in Italian and European Studies. 
 
-Outside of my research, I enjoy playing Ultimate Frisbee, learning new languages, and backpacking around the world.
+Outside of my research, I enjoy Ultimate Frisbee, playing the Uilleann pipes, and backpacking around the world.
