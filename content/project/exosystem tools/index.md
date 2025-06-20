@@ -8,6 +8,5 @@ tags:
   - Astronomy
 ---
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
-
+A tool for exoplanet visualization and demographics projects. This is currently a work in progress, but feel free to use any of my code in the meantime!
 <!--more-->

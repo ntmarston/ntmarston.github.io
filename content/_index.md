@@ -41,7 +41,7 @@ sections:
         featured_only: False
     design:
       view: article-grid
-      columns: 1
+      columns: 2
   - block: collection
     content:
       title: Recent Publications
