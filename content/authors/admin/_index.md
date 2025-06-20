@@ -20,13 +20,16 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Researcher --- Post-Bac
+role: Post-Bac
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: University of Wisconsin-Madison1
+  - name: | 
+        Post-Bac Researcher
+        University of Wisconsin-Madison
+        EN\NO\IT
     url: https://wisc.edu/
-    languages: EN\NO\IT
+
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
