@@ -57,7 +57,6 @@ education:
     date_start: 2022-09-01
     date_end: 2025-05-11
     summary: |
-      GPA: 3.58/4.0
 
       Courses included:
       - Exoplanets (Graduate level), General Relativity, Cosmology
@@ -69,7 +68,7 @@ education:
     date_start: 2018-09-01
     date_end: 2021-05-15
     summary: |
-      GPA: 3.87/4.0
+      Graduated with High Distinction
 
       Courses included:
       - Machine Architecture
