@@ -34,7 +34,7 @@ sections:
   - block: collection
     id: papers
     content:
-      title: Featured Work
+      title: Featured Code
       filters:
         folders:
           - project
