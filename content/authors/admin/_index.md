@@ -82,11 +82,11 @@ work:
     date_start: 2023-09-01
     date_end:
     summary: |
-      
+      - Using C++ Code to solve for interior structures and thermal histories of low density exoplanets
+      - Modifying N-body integration tools to study the dynamics of embedded objects in AGN disks
+      - Development of workflow tools and data processing pipelines
       - Analyzing Kepler mission data in combination with Gaia DR3 data to characterize periodicity and other properties of stars in the open cluster NGC 6819
       - Extensive work with periodograms, autocorrelation, and other light curve analysis techniques
-      - Using C++ Code to model allowable properties of low density exoplanets
-      - Development of workflow tools and data processing pipelines
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
