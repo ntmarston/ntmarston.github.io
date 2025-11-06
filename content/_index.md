@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: uploads/Nicholas_Marston_CV.pdf
+        url: uploads/Marston_CV_10-2025.pdf
     design:
       css_class: dark
       background:
