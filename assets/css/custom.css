@@ -81,12 +81,3 @@ body[class*="gallery"] .article-container p,
   margin-left: auto;
   margin-right: auto;
 }
-
-/* Hide dates in gallery page navigation */
-.gallery-page .page-nav time,
-.gallery-page .pager time,
-.gallery-page .nav-links time,
-.gallery-page time.text-muted,
-.gallery-page .article-metadata time {
-  display: none;
-}
