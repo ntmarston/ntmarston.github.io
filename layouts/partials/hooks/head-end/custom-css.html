@@ -1,0 +1,15 @@
+<style>
+/* Center project tiles in the article grid */
+.hb-collection-grid {
+  justify-content: center;
+}
+</style>
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  // Make PDF links open in new tab
+  document.querySelectorAll('a[href$=".pdf"]').forEach(function(link) {
+    link.setAttribute('target', '_blank');
+    link.setAttribute('rel', 'noopener noreferrer');
+  });
+});
+</script>

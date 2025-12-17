@@ -1,0 +1,4 @@
+/* Center project tiles in the article grid */
+.hb-collection-grid {
+  justify-content: center;
+}
