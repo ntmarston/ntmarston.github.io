@@ -1,5 +1,8 @@
 ---
 title: "TOI-1338 b Interior Models"
+profile: false
+share: false
+show_related: false
 ---
 
 ![Figure](/gallery-figs/Section3-Synthetic.png)

@@ -1,5 +1,8 @@
 ---
 title: "Black Hole Binary-Single Scattering"
+profile: false
+share: false
+show_related: false
 ---
 
 ![Figure](/gallery-figs/SamsingIlanFig4Reprod.png)

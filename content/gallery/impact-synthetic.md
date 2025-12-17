@@ -1,5 +1,8 @@
 ---
 title: "Radius Inflation Effects"
+profile: false
+share: false
+show_related: false
 ---
 
 ![Figure](/gallery-figs/impact-synthetic.png)
