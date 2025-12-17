@@ -1,9 +1,9 @@
 ---
-title: Exosystem tools
+title: Super-Puffs
 date: 2025-06-20
 external_link: MARACPoster.png
 tags:
-  - Super-puffs
+  - Poster
   - Exoplanets
   - Computational modeling
 ---
