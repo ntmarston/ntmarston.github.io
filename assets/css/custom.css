@@ -6,9 +6,9 @@
 /* Figure Gallery Styles */
 .figure-gallery {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(450px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
   gap: 2rem;
-  max-width: 1600px;
+  width: 100%;
   margin: 0 auto;
 }
 
@@ -20,11 +20,15 @@
   border-radius: 8px;
   overflow: hidden;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
-  transition: box-shadow 0.2s ease;
+  transition: box-shadow 0.2s ease, transform 0.2s ease;
+  text-decoration: none;
+  color: inherit;
+  cursor: pointer;
 }
 
 .figure-gallery .gallery-item:hover {
   box-shadow: 0 4px 16px rgba(0, 0, 0, 0.12);
+  transform: translateY(-2px);
 }
 
 .figure-gallery .gallery-item img {
