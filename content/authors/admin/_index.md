@@ -45,8 +45,8 @@ profiles:
     url: https://orcid.org/0009-0007-1123-0038
 
 interests:
-  - Exoplanets
-  - Habitable Worlds
+  - Exoplanetary Science
+  - Astrodynamics
   - Black Hole Physics
   - Computational Astrophysics
 
