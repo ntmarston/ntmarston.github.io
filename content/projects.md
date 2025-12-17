@@ -42,6 +42,10 @@ sections:
         <img src="/gallery-figs/Section3-Synthetic.png" alt="Figure">
         <figcaption>A set of modeled $M_{core}-R_p$ relation curves for TOI-1338 b which reproduce the planet's mass and radius observations. The inset shows the point where several of the curves achieve TOI-1338 b's measured radius (2025).</figcaption>
         </a>
+        <a href="/gallery/resultwdtriplemassratios/" class="gallery-item">
+        <img src="/gallery-figs/ResultWDTripleMassRatios.png" alt="Figure">
+        <figcaption>N-body simulation outcomes of binary-single scatterings involving three white dwarfs, shown with respect to inner and outer mass ratio ($m_3$ is the incident star).</figcaption>
+        </a>
         </div>
     design:
       columns: 1
