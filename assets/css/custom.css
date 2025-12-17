@@ -6,9 +6,9 @@
 /* Figure Gallery Styles */
 .figure-gallery {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(auto-fit, minmax(450px, 1fr));
   gap: 2rem;
-  max-width: 1200px;
+  max-width: 1600px;
   margin: 0 auto;
 }
 
@@ -35,25 +35,17 @@
 
 .figure-gallery .gallery-item figcaption {
   padding: 1rem;
-  font-size: 0.9rem;
+  font-size: 0.95rem;
   line-height: 1.5;
   color: var(--sl-color-neutral-700, #495057);
   text-align: center;
 }
 
-/* Responsive: 2 columns on tablets */
-@media (max-width: 900px) {
-  .figure-gallery {
-    grid-template-columns: repeat(2, 1fr);
-    gap: 1.5rem;
-  }
-}
-
-/* Responsive: 1 column on mobile */
-@media (max-width: 600px) {
+/* Responsive: smaller minimum on mobile */
+@media (max-width: 500px) {
   .figure-gallery {
     grid-template-columns: 1fr;
-    gap: 1.25rem;
+    gap: 1.5rem;
   }
 }
 
