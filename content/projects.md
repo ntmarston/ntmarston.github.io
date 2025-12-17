@@ -50,7 +50,7 @@ sections:
 
             <figure class="gallery-item">
               <img src="/gallery-figs/Section3-Synthetic.png" alt="Figure">
-              <figcaption> A set of modeled $\Mcore-R_p$ relation curves for TOI-1338 b which reproduce the planet's mass and radius observations. The inset shows the point where several of the curves achieve TOI-1338 b's measured radius (2025).</figcaption>
+              <figcaption> A set of modeled $M_{core}-R_p$ relation curves for TOI-1338 b which reproduce the planet's mass and radius observations. The inset shows the point where several of the curves achieve TOI-1338 b's measured radius (2025).</figcaption>
             </figure>
 
         </div>
