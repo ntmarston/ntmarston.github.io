@@ -61,3 +61,32 @@
 .dark .figure-gallery .gallery-item figcaption {
   color: var(--sl-color-neutral-300, #cbd5e0);
 }
+
+/* Gallery page styling - center image and caption */
+body[class*="gallery"] .article-container,
+.gallery-page .article-container {
+  text-align: center;
+}
+
+body[class*="gallery"] .article-container img,
+.gallery-page .article-container img {
+  display: inline-block;
+  max-width: 100%;
+}
+
+body[class*="gallery"] .article-container p,
+.gallery-page .article-container p {
+  text-align: center;
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Hide dates in gallery page navigation */
+.gallery-page .page-nav time,
+.gallery-page .pager time,
+.gallery-page .nav-links time,
+.gallery-page time.text-muted,
+.gallery-page .article-metadata time {
+  display: none;
+}
