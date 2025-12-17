@@ -9,7 +9,7 @@ date: '2025-07-01'
 publishDate: '2025-12-16T00:00:00Z'
 publication_types:
 - presentation
-publication: 'Poster presentation'
+publication: 'Poster Presentation at 2025 Mid-American Regional Astrophysics Conference (MARAC) and 2025 Great Lakes Exoplanet Area Meeting. Publication to be submitted Dec. 2025'
 tags:
 - presentation
 - MARAC
