@@ -1,7 +1,7 @@
 ---
 title: Super-Puffs
 date: 2025-06-20
-external_link: MARACPoster.png
+external_link: uploads/MARACPoster.pdf
 tags:
   - Poster
   - Exoplanets
