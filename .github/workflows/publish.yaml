@@ -31,6 +31,21 @@ jobs:
       with:
           # Fetch history for Hugo's .GitInfo and .Lastmod
         fetch-depth: 0
+    - name: Sync latest CV from private CV repo
+      env:
+        GH_TOKEN: ${{ secrets.CV_TOKEN }}
+      run: |
+        mkdir -p static/uploads
+        if [ -n "$GH_TOKEN" ] \
+           && gh api repos/ntmarston/CV/contents/main.pdf \
+                -H "Accept: application/vnd.github.raw" > static/uploads/Marston_CV.pdf.new 2>/dev/null \
+           && head -c 4 static/uploads/Marston_CV.pdf.new | grep -q '%PDF'; then
+          mv static/uploads/Marston_CV.pdf.new static/uploads/Marston_CV.pdf
+          echo "Synced latest CV from ntmarston/CV."
+        else
+          rm -f static/uploads/Marston_CV.pdf.new
+          echo "::warning::Could not fetch CV from private repo (missing/invalid CV_TOKEN?). Falling back to committed static/uploads/Marston_CV.pdf."
+        fi
     - name: Setup Hugo
       uses: peaceiris/actions-hugo@v2
       with:
