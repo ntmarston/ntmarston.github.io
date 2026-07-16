@@ -1,23 +1,31 @@
 ---
-title: "Modeling the Interior Structures and Thermal Histories of Super-Puffs"
+title: 'Do Super-Puffs Defy Core Accretion? Population-Wide Interior Structure Constraints'
 authors:
 - Nicholas T. Marston
 - Juliette Becker
-- Andrew R. Howe
-- Fred C. Adams
-date: '2025-07-01'
-publishDate: '2025-12-16T00:00:00Z'
+- Alex R. Howe
+date: '2026-06-03'
+publishDate: '2026-07-15T00:00:00Z'
 publication_types:
-- presentation
-publication: 'Poster Presentation at 2025 Mid-American Regional Astrophysics Conference (MARAC) and 2025 Great Lakes Exoplanet Area Meeting. Publication to be submitted Dec. 2025'
+- manuscript
+publication: '*The Astrophysical Journal*, in press'
+doi: 10.3847/1538-4357/ae78d1
 tags:
-- presentation
-- MARAC
-- Great Lakes Exoplanet Area Meeting
 - exoplanets
+- super-puffs
+- interior structure
+- exoplanet demographics
+links:
+- name: DOI
+  url: https://doi.org/10.3847/1538-4357/ae78d1
+- name: arXiv
+  url: https://arxiv.org/abs/2606.11330
 ---
 
-Poster presentation given at the 2025 Mid-American Regional Astrophysics Conference (MARAC)
+Constrains the interior structures and thermal histories of 34 cold super-puff exoplanets using
+hydrostatic modeling, testing consistency with core accretion theory. Accepted to ApJ, in press.
+
+Grew out of a poster presented at the 2025 Mid-American Regional Astrophysics Conference (MARAC)
 and the 2025 Great Lakes Exoplanet Area Meeting.
 
 See the citation file at `cite.bib` for BibTeX details and authorship.
